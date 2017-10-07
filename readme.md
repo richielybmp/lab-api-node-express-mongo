@@ -1,4 +1,4 @@
-# lab-api-node-express-mongo
+# Lab API Node Express Mongo
 
 Experimento de criação de API com NodeJS, Express e MongoDB.
 
