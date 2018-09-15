@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
-    "production": "pm2 start index.js --name myapi"
+    "start": "pm2 start index.js --name myapi",
+    "stop": "pm2 stop myapi",
+    "show": "pm2 show myapi"
   },
   "author": "",
   "license": "ISC",
